@@ -1,0 +1,2724 @@
+fileFormatVersion: 2
+guid: 12181663578ef094ea9b0db20e314e42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3241521251397049532
+    second: 1bit 16px patterns and tiles - outlines2_0
+  - first:
+      213: -3898588174355788659
+    second: 1bit 16px patterns and tiles - outlines2_1
+  - first:
+      213: -6531414850940185361
+    second: 1bit 16px patterns and tiles - outlines2_2
+  - first:
+      213: -7418841719406444591
+    second: 1bit 16px patterns and tiles - outlines2_3
+  - first:
+      213: -7202994726784434149
+    second: 1bit 16px patterns and tiles - outlines2_4
+  - first:
+      213: -1599247717923756991
+    second: 1bit 16px patterns and tiles - outlines2_5
+  - first:
+      213: 3546340107785748109
+    second: 1bit 16px patterns and tiles - outlines2_6
+  - first:
+      213: 1937313630327566233
+    second: 1bit 16px patterns and tiles - outlines2_7
+  - first:
+      213: -6384031929000978567
+    second: 1bit 16px patterns and tiles - outlines2_8
+  - first:
+      213: -4944788970072821796
+    second: 1bit 16px patterns and tiles - outlines2_9
+  - first:
+      213: -6182924375650103486
+    second: 1bit 16px patterns and tiles - outlines2_10
+  - first:
+      213: 4144808175331255310
+    second: 1bit 16px patterns and tiles - outlines2_11
+  - first:
+      213: 5955959159733625309
+    second: 1bit 16px patterns and tiles - outlines2_12
+  - first:
+      213: -6324050312906441905
+    second: 1bit 16px patterns and tiles - outlines2_13
+  - first:
+      213: -402992699591395960
+    second: 1bit 16px patterns and tiles - outlines2_14
+  - first:
+      213: -6476865131011144201
+    second: 1bit 16px patterns and tiles - outlines2_15
+  - first:
+      213: 2958927583212799479
+    second: 1bit 16px patterns and tiles - outlines2_16
+  - first:
+      213: 8827072895157310505
+    second: 1bit 16px patterns and tiles - outlines2_17
+  - first:
+      213: -4255716638672026417
+    second: 1bit 16px patterns and tiles - outlines2_18
+  - first:
+      213: -7274261297642615558
+    second: 1bit 16px patterns and tiles - outlines2_20
+  - first:
+      213: -2441812767857798374
+    second: 1bit 16px patterns and tiles - outlines2_21
+  - first:
+      213: -2082577523227448688
+    second: 1bit 16px patterns and tiles - outlines2_22
+  - first:
+      213: 8680256482256455616
+    second: 1bit 16px patterns and tiles - outlines2_23
+  - first:
+      213: 7206044332185817087
+    second: 1bit 16px patterns and tiles - outlines2_24
+  - first:
+      213: 5770209741925808152
+    second: 1bit 16px patterns and tiles - outlines2_25
+  - first:
+      213: 2752197120170825916
+    second: 1bit 16px patterns and tiles - outlines2_26
+  - first:
+      213: 2418150248559348711
+    second: 1bit 16px patterns and tiles - outlines2_27
+  - first:
+      213: 853617226857643623
+    second: 1bit 16px patterns and tiles - outlines2_28
+  - first:
+      213: -8028220843310301762
+    second: 1bit 16px patterns and tiles - outlines2_30
+  - first:
+      213: 9219725797234050547
+    second: 1bit 16px patterns and tiles - outlines2_31
+  - first:
+      213: -6215821502244040516
+    second: 1bit 16px patterns and tiles - outlines2_32
+  - first:
+      213: 7760571561288704672
+    second: 1bit 16px patterns and tiles - outlines2_33
+  - first:
+      213: 3495008795231969440
+    second: 1bit 16px patterns and tiles - outlines2_34
+  - first:
+      213: 2660053585472377527
+    second: 1bit 16px patterns and tiles - outlines2_35
+  - first:
+      213: -2581030476588965372
+    second: 1bit 16px patterns and tiles - outlines2_36
+  - first:
+      213: -8404646721788615138
+    second: 1bit 16px patterns and tiles - outlines2_37
+  - first:
+      213: 1444356951343656935
+    second: 1bit 16px patterns and tiles - outlines2_38
+  - first:
+      213: 873769840394385231
+    second: 1bit 16px patterns and tiles - outlines2_40
+  - first:
+      213: -2011202098677313136
+    second: 1bit 16px patterns and tiles - outlines2_41
+  - first:
+      213: -1440577615117740675
+    second: 1bit 16px patterns and tiles - outlines2_42
+  - first:
+      213: 357857558288318811
+    second: 1bit 16px patterns and tiles - outlines2_43
+  - first:
+      213: -4902500092943811324
+    second: 1bit 16px patterns and tiles - outlines2_44
+  - first:
+      213: -8035611287227619238
+    second: 1bit 16px patterns and tiles - outlines2_45
+  - first:
+      213: -887673035860798277
+    second: 1bit 16px patterns and tiles - outlines2_46
+  - first:
+      213: -786542271379457735
+    second: 1bit 16px patterns and tiles - outlines2_47
+  - first:
+      213: 2332441370596013304
+    second: 1bit 16px patterns and tiles - outlines2_48
+  - first:
+      213: -6101744344337635097
+    second: 1bit 16px patterns and tiles - outlines2_50
+  - first:
+      213: -3076956684911480119
+    second: 1bit 16px patterns and tiles - outlines2_51
+  - first:
+      213: -980332255768330882
+    second: 1bit 16px patterns and tiles - outlines2_52
+  - first:
+      213: -4579693236460079547
+    second: 1bit 16px patterns and tiles - outlines2_53
+  - first:
+      213: 6053893367376455425
+    second: 1bit 16px patterns and tiles - outlines2_54
+  - first:
+      213: 3815381244946331749
+    second: 1bit 16px patterns and tiles - outlines2_55
+  - first:
+      213: 6677823857659358907
+    second: 1bit 16px patterns and tiles - outlines2_56
+  - first:
+      213: -1447825010400058262
+    second: 1bit 16px patterns and tiles - outlines2_57
+  - first:
+      213: -5272857172068336072
+    second: 1bit 16px patterns and tiles - outlines2_58
+  - first:
+      213: 5692753404776863511
+    second: 1bit 16px patterns and tiles - outlines2_70
+  - first:
+      213: -7164728464563482157
+    second: 1bit 16px patterns and tiles - outlines2_71
+  - first:
+      213: -3814485079050986529
+    second: 1bit 16px patterns and tiles - outlines2_72
+  - first:
+      213: -1170786244973143074
+    second: 1bit 16px patterns and tiles - outlines2_73
+  - first:
+      213: 3248809644305131812
+    second: 1bit 16px patterns and tiles - outlines2_74
+  - first:
+      213: 5328502878087759740
+    second: 1bit 16px patterns and tiles - outlines2_75
+  - first:
+      213: -6002470501232727307
+    second: 1bit 16px patterns and tiles - outlines2_76
+  - first:
+      213: 2893198732936930084
+    second: 1bit 16px patterns and tiles - outlines2_77
+  - first:
+      213: -7481228107482157883
+    second: 1bit 16px patterns and tiles - outlines2_78
+  - first:
+      213: -2194917251811339560
+    second: 1bit 16px patterns and tiles - outlines2_80
+  - first:
+      213: 768661438649365649
+    second: 1bit 16px patterns and tiles - outlines2_81
+  - first:
+      213: -9174309287040521507
+    second: 1bit 16px patterns and tiles - outlines2_82
+  - first:
+      213: -3272170966796598932
+    second: 1bit 16px patterns and tiles - outlines2_83
+  - first:
+      213: 2704195007071685242
+    second: 1bit 16px patterns and tiles - outlines2_84
+  - first:
+      213: -1745090774628679926
+    second: 1bit 16px patterns and tiles - outlines2_85
+  - first:
+      213: 8357811489327289098
+    second: 1bit 16px patterns and tiles - outlines2_86
+  - first:
+      213: -5852120114716837604
+    second: 1bit 16px patterns and tiles - outlines2_87
+  - first:
+      213: -4366627098129388713
+    second: 1bit 16px patterns and tiles - outlines2_88
+  - first:
+      213: -8906740530007640561
+    second: 1bit 16px patterns and tiles - outlines2_90
+  - first:
+      213: 7911382574256277413
+    second: 1bit 16px patterns and tiles - outlines2_91
+  - first:
+      213: 7550702330550858636
+    second: 1bit 16px patterns and tiles - outlines2_92
+  - first:
+      213: -8640903491097636737
+    second: 1bit 16px patterns and tiles - outlines2_93
+  - first:
+      213: 1093073167091243660
+    second: 1bit 16px patterns and tiles - outlines2_94
+  - first:
+      213: 395998783506806950
+    second: 1bit 16px patterns and tiles - outlines2_95
+  - first:
+      213: 2521105828839174763
+    second: 1bit 16px patterns and tiles - outlines2_96
+  - first:
+      213: -1445214384263676636
+    second: 1bit 16px patterns and tiles - outlines2_97
+  - first:
+      213: 1667011240480068950
+    second: 1bit 16px patterns and tiles - outlines2_98
+  - first:
+      213: 6350674337109800347
+    second: 1bit 16px patterns and tiles - outlines2_100
+  - first:
+      213: 6035148061704215040
+    second: 1bit 16px patterns and tiles - outlines2_101
+  - first:
+      213: 1325464433145206363
+    second: 1bit 16px patterns and tiles - outlines2_102
+  - first:
+      213: 8780247562068546919
+    second: 1bit 16px patterns and tiles - outlines2_103
+  - first:
+      213: -295397037850080909
+    second: 1bit 16px patterns and tiles - outlines2_104
+  - first:
+      213: -6875848659521346100
+    second: 1bit 16px patterns and tiles - outlines2_105
+  - first:
+      213: 5247025290256272273
+    second: 1bit 16px patterns and tiles - outlines2_106
+  - first:
+      213: 2345355266453944599
+    second: 1bit 16px patterns and tiles - outlines2_107
+  - first:
+      213: 5211738670288365600
+    second: 1bit 16px patterns and tiles - outlines2_108
+  - first:
+      213: 6205208785053674418
+    second: 1bit 16px patterns and tiles - outlines2_110
+  - first:
+      213: -1340351569245469127
+    second: 1bit 16px patterns and tiles - outlines2_111
+  - first:
+      213: 7164082787804974645
+    second: 1bit 16px patterns and tiles - outlines2_112
+  - first:
+      213: -1891462460839737357
+    second: 1bit 16px patterns and tiles - outlines2_113
+  - first:
+      213: -458398321657757328
+    second: 1bit 16px patterns and tiles - outlines2_114
+  - first:
+      213: 1896696767002601298
+    second: 1bit 16px patterns and tiles - outlines2_115
+  - first:
+      213: -7770526768868846878
+    second: 1bit 16px patterns and tiles - outlines2_116
+  - first:
+      213: -4937572004072450819
+    second: 1bit 16px patterns and tiles - outlines2_117
+  - first:
+      213: 4662802563556209284
+    second: 1bit 16px patterns and tiles - outlines2_118
+  - first:
+      213: 6391549132218258004
+    second: 1bit 16px patterns and tiles - outlines2_120
+  - first:
+      213: 1725630127246684929
+    second: 1bit 16px patterns and tiles - outlines2_121
+  - first:
+      213: -2705008286100136378
+    second: 1bit 16px patterns and tiles - outlines2_122
+  - first:
+      213: 961596542446595675
+    second: 1bit 16px patterns and tiles - outlines2_123
+  - first:
+      213: -7311041388429014985
+    second: 1bit 16px patterns and tiles - outlines2_124
+  - first:
+      213: -8262008355305823908
+    second: 1bit 16px patterns and tiles - outlines2_125
+  - first:
+      213: 4804883801066551902
+    second: 1bit 16px patterns and tiles - outlines2_126
+  - first:
+      213: -4602752045739048175
+    second: 1bit 16px patterns and tiles - outlines2_127
+  - first:
+      213: 267399933504792313
+    second: 1bit 16px patterns and tiles - outlines2_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc966167623cfc20800000000000000
+      internalID: 3241521251397049532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c0cf506be65e9c0800000000000000
+      internalID: -3898588174355788659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4dff84cc0cb55a0800000000000000
+      internalID: -6531414850940185361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df3eed43cafa0990800000000000000
+      internalID: -7418841719406444591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1080078572d90c90800000000000000
+      internalID: -7202994726784434149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ec497ca45ec9e0800000000000000
+      internalID: -1599247717923756991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e3a49e981273130800000000000000
+      internalID: 3546340107785748109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f62328b78b2ea10800000000000000
+      internalID: 1937313630327566233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977152dd8cc5767a0800000000000000
+      internalID: -6384031929000978567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf2a8d51a4906bb0800000000000000
+      internalID: -4944788970072821796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f8544f907d13aa0800000000000000
+      internalID: -6182924375650103486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0421c84311558930800000000000000
+      internalID: 4144808175331255310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd128acbc41d7a250800000000000000
+      internalID: 5955959159733625309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b73852fb57c38a0800000000000000
+      internalID: -6324050312906441905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88577cd5648486af0800000000000000
+      internalID: -402992699591395960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f587ffaa7d8d16a0800000000000000
+      internalID: -6476865131011144201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f50189b5f8301920800000000000000
+      internalID: 2958927583212799479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249452c700108a70800000000000000
+      internalID: 8827072895157310505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc40c3fc348a0f4c0800000000000000
+      internalID: -4255716638672026417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc3a6f3e1ac0b90800000000000000
+      internalID: -7274261297642615558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1392d39930fc1ed0800000000000000
+      internalID: -2441812767857798374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa0dec6c23913e0800000000000000
+      internalID: -2082577523227448688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78d28d747767870800000000000000
+      internalID: 8680256482256455616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff07af0423010460800000000000000
+      internalID: 7206044332185817087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8187cfa3037e31050800000000000000
+      internalID: 5770209741925808152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb892a3f2b4c13620800000000000000
+      internalID: 2752197120170825916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb07e2d6defe8120800000000000000
+      internalID: 2418150248559348711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ef00d5858a8db00800000000000000
+      internalID: 853617226857643623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3a18ada7069090800000000000000
+      internalID: -8028220843310301762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f504aea3cb03ff70800000000000000
+      internalID: 9219725797234050547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0528bc647fcb9a0800000000000000
+      internalID: -6215821502244040516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ac9cb7b613bb60800000000000000
+      internalID: 7760571561288704672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0eaae5bf3c08030800000000000000
+      internalID: 3495008795231969440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2d59574a86ae420800000000000000
+      internalID: 2660053585472377527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022578d4765e2cd0800000000000000
+      internalID: -2581030476588965372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1663251652bc5b80800000000000000
+      internalID: -8404646721788615138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef64b5aef26b0410800000000000000
+      internalID: 1444356951343656935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4738285a01402c00800000000000000
+      internalID: 873769840394385231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09191d8d856c614e0800000000000000
+      internalID: -2011202098677313136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751783aa4a020ce0800000000000000
+      internalID: -1440577615117740675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c6f1ad8d57f400800000000000000
+      internalID: 357857558288318811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40db3c8d322d6fbb0800000000000000
+      internalID: -4902500092943811324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_45
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58ada7db16cb7090800000000000000
+      internalID: -8035611287227619238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb413d4b31a5ea3f0800000000000000
+      internalID: -887673035860798277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9393991b8f3a515f0800000000000000
+      internalID: -786542271379457735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4fcc9911f7e5020800000000000000
+      internalID: 2332441370596013304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a185e8df325ba0800000000000000
+      internalID: -6101744344337635097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2769e82347c45d0800000000000000
+      internalID: -3076956684911480119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3215e1092562f0800000000000000
+      internalID: -980332255768330882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546b9840449a170c0800000000000000
+      internalID: -4579693236460079547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107219651ffb30450800000000000000
+      internalID: 6053893367376455425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b6bb0705f2f430800000000000000
+      internalID: 3815381244946331749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_56
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe2a6cfa656cac50800000000000000
+      internalID: 6677823857659358907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ad2ee2da48ebe0800000000000000
+      internalID: -1447825010400058262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83efe7bb65c03d6b0800000000000000
+      internalID: -5272857172068336072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717de956f09b00f40800000000000000
+      internalID: 5692753404776863511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1509dfb65c19c90800000000000000
+      internalID: -7164728464563482157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_72
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb5326d70a301bc0800000000000000
+      internalID: -3814485079050986529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb56700d1880cfe0800000000000000
+      internalID: -1170786244973143074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_74
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429aba79827161d20800000000000000
+      internalID: 3248809644305131812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774111d225a2f940800000000000000
+      internalID: 5328502878087759740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 91
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa234fa1e0f2bca0800000000000000
+      internalID: -6002470501232727307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_77
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423e0553be4b62820800000000000000
+      internalID: 2893198732936930084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_78
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccabd96ca65d2890800000000000000
+      internalID: -7481228107482157883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2986e73661a81e0800000000000000
+      internalID: -2194917251811339560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1947c338185daaa00800000000000000
+      internalID: 768661438649365649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_82
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddae16e9f4e4ea080800000000000000
+      internalID: -9174309287040521507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_83
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610eb7a7d9e692d0800000000000000
+      internalID: -3272170966796598932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a84ef080b378520800000000000000
+      internalID: 2704195007071685242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_85
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f3275bf2138c7e0800000000000000
+      internalID: -1745090774628679926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_86
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0318099449ecf370800000000000000
+      internalID: 8357811489327289098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197263f2c719cea0800000000000000
+      internalID: -5852120114716837604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_88
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b27652acf9663c0800000000000000
+      internalID: -4366627098129388713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f15a8da6e46480800000000000000
+      internalID: -8906740530007640561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7c2c4f880eacd60800000000000000
+      internalID: 7911382574256277413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b239a3cb79c860800000000000000
+      internalID: 7550702330550858636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7051ba6e08551880800000000000000
+      internalID: -8640903491097636737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_94
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 59
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1cfd01406b2f00800000000000000
+      internalID: 1093073167091243660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_95
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f866abcede7500800000000000000
+      internalID: 395998783506806950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b623029d464ccf220800000000000000
+      internalID: 2521105828839174763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dbda1bc2191fbe0800000000000000
+      internalID: -1445214384263676636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_98
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655d56914e9622710800000000000000
+      internalID: 1667011240480068950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b957e9b89a0222850800000000000000
+      internalID: 6350674337109800347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_101
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a54c0cf2721c350800000000000000
+      internalID: 6035148061704215040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_102
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d80c11eef46210800000000000000
+      internalID: 1325464433145206363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d51153a4b9d970800000000000000
+      internalID: 8780247562068546919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_104
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794e3b85f986ebf0800000000000000
+      internalID: -295397037850080909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc562efe2141490a0800000000000000
+      internalID: -6875848659521346100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_106
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b473993bd21d840800000000000000
+      internalID: 5247025290256272273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_107
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719341940306c8020800000000000000
+      internalID: 2345355266453944599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_108
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02864b825b0d35840800000000000000
+      internalID: 5211738670288365600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe14e63845d1650800000000000000
+      internalID: 6205208785053674418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_111
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368cf8695d166de0800000000000000
+      internalID: -1340351569245469127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_112
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e0b9ca65feb6360800000000000000
+      internalID: 7164082787804974645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f749abc9ec20c5e0800000000000000
+      internalID: -1891462460839737357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_114
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07144f7b72173a9f0800000000000000
+      internalID: -458398321657757328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_115
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25762d319ab625a10800000000000000
+      internalID: 1896696767002601298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_116
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e298efd21b892490800000000000000
+      internalID: -7770526768868846878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_117
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df419543c683a7bb0800000000000000
+      internalID: -4937572004072450819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_118
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4827c8a1a3a95b040800000000000000
+      internalID: 4662802563556209284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_120
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4525356621853b850800000000000000
+      internalID: 6391549132218258004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_121
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103304c357ba2f710800000000000000
+      internalID: 1725630127246684929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_122
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5388ab41e57ad0800000000000000
+      internalID: -2705008286100136378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_123
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ee5c9e5f6485d00800000000000000
+      internalID: 961596542446595675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_124
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7388280c796f98a90800000000000000
+      internalID: -7311041388429014985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_125
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51efa2cc23775d80800000000000000
+      internalID: -8262008355305823908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_126
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ab9951c506ea240800000000000000
+      internalID: 4804883801066551902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_127
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113858c966dbf10c0800000000000000
+      internalID: -4602752045739048175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1bit 16px patterns and tiles - outlines2_128
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f62481a2def5b300800000000000000
+      internalID: 267399933504792313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
